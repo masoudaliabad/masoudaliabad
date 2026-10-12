@@ -25,7 +25,9 @@
 | [تشخیص اعداد فارسی](https://github.com/masoudaliabad/Cnn_tashkhis_adad_farsi) | تشخیص اعداد فارسی از تصویر با CNN | TensorFlow, OpenCV |
 | [تحلیل نظرات فارسی](https://github.com/masoudaliabad/Persian-Sentiment-Analysis) | تحلیل احساسات نظرات فارسی با DistilBERT | HuggingFace, Transformers |
 | [طبقه‌بندی پوشاک](https://github.com/masoudaliabad/fastion_model) | دسته‌بندی پوشاک با Fashion MNIST | TensorFlow, Keras |
-
+ | [شبکه مولد تخاصمی](https://github.com/masoudaliabad/GAN_projects) | تولید تصاویر کشتی با DCGAN و CIFAR-10 | TensorFlow, Keras |
+ 
+ ]|
 ---
 
 ## 📊 آمار GitHub
